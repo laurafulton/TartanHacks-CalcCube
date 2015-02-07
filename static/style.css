@@ -178,6 +178,7 @@ nav{
   margin: 0px;
   width: 100%;
   min-width:950px;
+
 }
 
 nav img {
@@ -198,12 +199,27 @@ nav img {
 }
 
 
-a#title {
+#title {
 	color: white;
+  position: relative;
+  font-size: 30px;
+}
+
+#title strong {
+  margin-left: 200px;
+  font-size:30pt;
 }
 
 .continue_button {
 	float: right;
 }
 
-<
+#name {
+  left:20px;
+  color:white;
+  vertical-align: center;
+  size:20px;
+  padding:15px;
+  width: 200px;
+  float:right;
+}
