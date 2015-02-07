@@ -1,0 +1,209 @@
+.hidden{
+    display:none;
+}
+
+.unhidden{
+    display:block;
+}
+
+body{
+  margin: 0px;
+}
+
+.container{
+  background-color: cornsilk;
+
+}
+
+button{
+  background-color: #F3F781;
+  border-color: white;
+  border-radius: 15px;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  color: black;
+  /*position: relative;
+  left: 15px;
+  top: 15px;
+  right: 15px;
+  bottom: 15px;*/
+}
+
+#start_over{
+ float: right;
+ margin: 25px;
+ background-color: #3C9F9C;
+ color: cornsilk;
+ box-shadow: 0.5px 1px 1px 0.5px #888880;
+}
+
+a{
+  color: black;
+  text-decoration: none; 
+}
+
+a:hover{
+  color: rgba(0, 14, 14, 0.5);
+}
+
+#page_index_text{
+  width:90%;
+  height: 620px;
+  background-image: url("mrcubebg.png");
+  background-size: 100%;  
+  background-repeat: no-repeat;
+  background-position: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  box-shadow: 2px 3px 10px 5px #888880;
+
+}
+
+#page_1_text{
+  width:90%;
+  height: 620px;
+  background-image: url("mrcubeproblembg.png");
+  background-size: 100%;  
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  box-shadow: 2px 3px 10px 5px #888880;
+}
+
+#page_2_text{
+  width:90%;
+  height: 620px;
+  background-image: url("tartan_page1.png");
+  background-size: 100%;  
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  box-shadow: 2px 3px 10px 5px #888880;
+}
+
+#page_3_text{
+  width:90%;
+  height: 620px;
+  background-image: url("tartan_shell.png");
+  background-size: 100%;  
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  box-shadow: 2px 3px 10px 5px #888880;
+}
+
+
+#one {
+  font-size: 18px;
+  color: white;
+}
+
+#two {
+  font-size: 18px;
+  top: 50px;
+  color: white;
+}
+
+#three {
+  font-size: 18px;
+  color: white;
+}
+
+#end_page_text{
+  width:90%;
+  height: 620px;
+  background-image: url("mrcubesuccessbg.png");
+  background-size: 100%;  
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  box-shadow: 2px 3px 10px 5px #888880;
+}
+
+/*#footer {
+  position: relative;
+  bottom: 200px;
+  height: 75px;
+}
+*/
+
+.story_text{
+  width: 450px;
+  height: auto;  
+  font-size: 24px;
+  background-color: #FDF6ED;
+  padding: 20px;
+  border-radius: 25px;
+  box-shadow: 2px 3px 10px #888880;
+  position: absolute;
+  top: 150px; 
+  margin-left: 45px;
+  font-family: "Nunito", sans-serif;
+}
+
+.story_intro{
+  background-color: #088A68;
+  color: white;
+  font-size: 24px;
+  height: auto;
+  width:400px;
+  position: absolute;
+  left: 40px;
+  padding: 50px;
+  border-radius:50px;
+  box-shadow: 2px 3px 10px #888880;
+  top: 150px; 
+  margin-left: 45px;
+  font-family: "Nunito", sans-serif;
+
+}
+
+/*.button1{
+  float: right;
+  background-color: #F3F781;
+  color: black;
+  border-radius:20px;
+
+
+}*/
+
+nav{
+  background-color: #572d2b;
+  height: 80px;
+  margin: 0px;
+  width: 100%;
+  min-width:950px;
+}
+
+nav img {
+  float: left;
+  height: 60px;
+  padding: 10px;
+}
+
+.header {
+  float: center;
+  font-size: 60px;
+  margin:0px;
+  padding-top: 5px;  
+  text-align: center;
+  color: #00FFCC;
+  font-family: "Montserrat", sans-serif;
+  /*text-shadow: 2px 2px #ff0000;*/
+}
+
+
+a#title {
+	color: white;
+}
+
+.continue_button {
+	float: right;
+}
+
+<
