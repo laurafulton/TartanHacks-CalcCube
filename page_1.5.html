@@ -130,6 +130,7 @@ $(document).ready(function (){
     console.log('Welcome!  Fetching your information.... ');
     FB.api('/me', function(response) {
       $('#name').html(response.name);
+      $('#logoutBtn').css('opacity', 1);
     });
   }
 </script>
@@ -140,6 +141,7 @@ $(document).ready(function (){
   <nav>
     <a href="index.html"><img alt="logo image" src="static/Logo.png"></a>
     <div id="name" align="right"></div>
+    <button id="logoutBtn" onclick="FB.logout(function(response) { location.reload(); })", style="opacity:0">Logout</button>
     <p class="header"><a href="index.html" id="title"><strong>CALC with CUBIE </strong></a></p>
   </nav> 
 
