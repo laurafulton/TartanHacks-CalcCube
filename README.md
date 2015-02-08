@@ -1,5 +1,6 @@
 Created at Tartan Hacks, Carnegie Mellon University 2015
 Laura Fulton, Aaron Paczak, Jenna Cario
+http://cubiethecalccube.azurewebsites.net
 
 Cubie the Calc Cube
 ========================================================
