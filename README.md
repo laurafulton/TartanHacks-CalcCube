@@ -1,5 +1,7 @@
 Created at Tartan Hacks, Carnegie Mellon University 2015
 Laura Fulton, Aaron Paczak, Jenna Cario
+
+Cubie the Calc Cube
 ========================================================
 
 Calc with Cubie is an interactive, storytelling web-app that helps calculus students gain a better visual understanding of volume graphs that are rotated about a linear axis. Calc with Cubie’s focus is to improve understanding by making the learning process interactive and fun. 
