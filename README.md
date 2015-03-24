@@ -1,6 +1,6 @@
 Created at Tartan Hacks, Carnegie Mellon University 2015
 CS: Laura Fulton, Aaron Paczak; Graphic Design: Jenna Cario
-http://cubiethecalccube.azurewebsites.net
+http://calcwithcubie.azurewebsites.net
 
 Cubie the Calc Cube
 ========================================================
